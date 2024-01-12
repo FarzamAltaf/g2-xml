@@ -1,0 +1,21 @@
+<foodlist>
+	<fooditem>
+		<name>Burger</name>
+		<cost>$ 7.99 only</cost>
+	</fooditem>
+
+	<fooditem>
+		<name>Pizza</name>
+		<cost>$ 4.99 only</cost>
+	</fooditem>
+
+	<fooditem>
+		<name>Sandwitch</name>
+		<cost>$ 7.99 only</cost>
+	</fooditem>
+
+	<fooditem>
+		<name>Garlic Bread</name>
+		<cost>$ 9.99 only</cost>
+	</fooditem>
+<foodlist>

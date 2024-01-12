@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<foodlist>
+    <fooditem type="pizza">
+        <name>Pizza</name>
+        <cost>Rs : 99.99/-</cost>
+    </fooditem>
+
+    <fooditem type="burger">
+        <name>Burger</name>
+        <cost>Rs : 199.99/-</cost>
+    </fooditem>
+
+    <fooditem  type="chinese">
+        <name>Chinese</name>
+        <cost>Rs : 249.99/-</cost>
+    </fooditem>
+
+    <fooditem type="tikka">
+        <name>Tikka</name>
+        <cost>Rs : 199.99/-</cost>
+    </fooditem>
+
+    <fooditem type="biryani">
+        <name>Biryani</name>
+        <cost>Rs : 999.99/-</cost>
+    </fooditem>
+
+</foodlist>
